@@ -6,13 +6,12 @@
 
 
 
-- 🌱 I’m currently learning **React Native,MERN,system design**
+- 🌱 Exploring Data Science & Machine Learning
 
 - 👨‍💻 All of my projects are available at [https://rrbasak.github.io/portfolio-new/](https://rrbasak.github.io/portfolio-new/)
 
 - 💬 Ask me about **react,node js,express,mongodb,spring boot**
 
-- ⚡ Fun fact **I am moody**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
